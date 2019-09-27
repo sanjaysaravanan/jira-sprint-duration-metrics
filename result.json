@@ -1,0 +1,27 @@
+{
+    " AEP - Claims": {
+        "id": "10710",
+        "Sprint 1": {
+            "id": "69",
+            "start_time": "17/Nov/15 9:00 AM",
+            "end_time": "24/Nov/15 9:00 AM",
+            "complete_time": "03/Dec/15 7:11 AM",
+            "sprint_duration": 16
+        },
+        "Sprint 2": {
+            "id": "122",
+            "start_time": "23/Dec/15 10:00 AM",
+            "end_time": "31/Dec/15 9:00 PM",
+            "complete_time": "31/Dec/15 6:56 PM",
+            "sprint_duration": 8
+        },
+        "Sprint 3": {
+            "id": "132",
+            "start_time": "04/Jan/16 9:01 AM",
+            "end_time": "14/Jan/16 6:00 PM",
+            "complete_time": "None",
+            "sprint_duration": 10
+        },
+        "average_sprint_duration": "11 Days"
+    }
+}
